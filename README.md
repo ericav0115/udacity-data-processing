@@ -140,7 +140,8 @@ The pipeline fails if any validation does not meet the expected result.
 
 ```text
 .
-├── final_project.py
+├── dags
+    ├── final_project.py
 ├── final_project_sql_statements.py
 ├── create_tables.sql
 └── final_project_operators
